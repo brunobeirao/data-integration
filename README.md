@@ -19,5 +19,5 @@ Foram criados 3 serviços REST:
 
     localhost:8080/companies/search?name=DIRECTV&zip=38006
 
-Na busca, ambos devem ser colocados como parâmetro, porém apenas um dos dois ou ambos devem estar preenchidos. É possível pesquisar por name e zip, name ou zip, sendo que o name retorna a partir de parte da palavra.
+Na busca, ambos devem ser colocados como parâmetro, porém pelo menos um dos dois deve estar com um valor de busca preenchido. É possível pesquisar por name e zip, name ou zip, sendo que o name retorna a partir de parte da palavra.
 
