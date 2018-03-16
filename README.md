@@ -13,11 +13,16 @@ Executar o arquivo para iniciar o serviço:
 
 Foram criados 3 serviços REST:
 
-    localhost:8080/companies/load
+    localhost:8080/companies/loader
 
-    localhost:8080/companies/integration
+    localhost:8080/companies/integrator
 
     localhost:8080/companies/search?name=DIRECTV&zip=38006
 
 Na busca, ambos devem ser colocados como parâmetro, porém pelo menos um dos dois deve estar com um valor de busca preenchido. É possível pesquisar por name e zip, name ou zip, sendo que o name retorna a partir de parte da palavra.
 
+##TODO
+    
+    Melhorar os testes.
+    
+    Ajustar a pesquisa por name
