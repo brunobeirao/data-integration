@@ -21,7 +21,7 @@ Foram criados 3 serviços REST:
 
 Na busca, ambos devem ser colocados como parâmetro, porém pelo menos um dos dois deve estar com um valor de busca preenchido. É possível pesquisar por name e zip, name ou zip, sendo que o name retorna a partir de parte da palavra.
 
-##TODO
+### TODO
     
     Melhorar os testes.
     
